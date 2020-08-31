@@ -1,0 +1,762 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>8 Easy Ways To Ruin Your User Onboarding | Webdesigner Depot</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="alternate" type="application/rss+xml" title="Webdesigner Depot RSS Feed" href="https://www.webdesignerdepot.com/feed/" />
+<link rel="pingback" href="https://www.webdesignerdepot.com/xmlrpc.php" />
+<link rel="stylesheet" href="https://use.typekit.net/khu5dcw.css">
+<link rel="stylesheet" type="text/css" href="/wp-content/themes/wdd18/style.css?v=46.css" media="screen, print" />
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@DesignerDepot">
+<meta name="twitter:site" content="@DesignerDepot">
+<meta name="twitter:title" content="8 Easy Ways To Ruin Your User Onboarding">
+<meta name="twitter:description" content="To understand why user onboarding is such an indispensable tool, we need to empathize with the people using our products; we all come from different backgrounds and cultures, we make different assumpt">
+<meta name="twitter:image" content="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_onboarding-scaled.jpg">
+
+
+<meta property="og:title" content="8 Easy Ways To Ruin Your User Onboarding" />
+<meta property="og:description" content="To understand why user onboarding is such an indispensable tool, we need to empathize with the people using our products; we all come from different backgrounds" />
+<meta property="og:url" content="https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/" />
+<meta property="og:image" content="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_onboarding-scaled.jpg" />
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="8 Easy Ways To Ruin Your User Onboarding" />
+<meta name="twitter:description" content="To understand why user onboarding is such an indispensable tool, we need to empathize with the people using our products; we all come from different backgrounds" />
+<meta name="twitter:image" content="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_onboarding-scaled.jpg" />
+
+<meta name="author" content="Ben Moss" />
+
+<meta name="description" content="To understand why user onboarding is such an indispensable tool, we need to empathize with the people using our products; we all come from different backgrounds" />
+<meta name="keywords" content="how to onboard apps,onboarding design,onboarding tips,ux,ux design,ux onboarding" />
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.webdesignerdepot.com/#organization","url":"https://www.webdesignerdepot.com/","name":"Webdesigner Depot","sameAs":[]},{"@type":"WebSite","@id":"https://www.webdesignerdepot.com/#website","url":"https://www.webdesignerdepot.com/","name":"Webdesigner Depot","publisher":{"@id":"https://www.webdesignerdepot.com/#organization"}},{"@type":"WebPage","@id":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/#webpage","url":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/","inLanguage":"en-US","name":"8 Easy Ways To Ruin Your User Onboarding","isPartOf":{"@id":"https://www.webdesignerdepot.com/#website"},"breadcrumb":{"@id":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/#breadcrumblist"},"image":{"@type":"ImageObject","@id":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/#primaryimage","url":"https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_onboarding-scaled.jpg","width":2560,"height":1408},"primaryImageOfPage":{"@id":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/#primaryimage"},"datePublished":"2020-08-31T10:45:16-03:00","dateModified":"2020-08-31T08:52:43-03:00"},{"@type":"Article","@id":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/#article","isPartOf":{"@id":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/#webpage"},"author":{"@id":"https://www.webdesignerdepot.com/author/bmoss/#author"},"headline":"8 Easy Ways To Ruin Your User Onboarding","datePublished":"2020-08-31T10:45:16-03:00","dateModified":"2020-08-31T08:52:43-03:00","commentCount":0,"mainEntityOfPage":{"@id":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/#webpage"},"publisher":{"@id":"https://www.webdesignerdepot.com/#organization"},"articleSection":"User Experience, how to onboard apps, onboarding design, onboarding tips, ux, ux design, UX onboarding","image":{"@type":"ImageObject","@id":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/#primaryimage","url":"https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_onboarding-scaled.jpg","width":2560,"height":1408}},{"@type":"Person","@id":"https://www.webdesignerdepot.com/author/bmoss/#author","name":"Ben Moss","sameAs":[],"image":{"@type":"ImageObject","@id":"https://www.webdesignerdepot.com/#personlogo","url":"https://secure.gravatar.com/avatar/7ef79c4543148d4ff5c75498db18857d?s=96&d=mm&r=g","width":96,"height":96,"caption":"Ben Moss"}},{"@type":"BreadcrumbList","@id":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.webdesignerdepot.com/","url":"https://www.webdesignerdepot.com/","name":"Web Design Blog - Webdesigner Depot "}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/","url":"https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/","name":"8 Easy Ways To Ruin Your User Onboarding"}}]}]}</script>
+<link rel="canonical" href="https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/" />
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Webdesigner Depot &raquo; 8 Easy Ways To Ruin Your User Onboarding Comments Feed" href="https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.webdesignerdepot.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://www.webdesignerdepot.com/wp-content/plugins/wp-quiz/assets/frontend/css/animate.css?ver=3.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-quiz-css' href='https://www.webdesignerdepot.com/wp-content/plugins/wp-quiz/assets/frontend/css/wp-quiz.css?ver=2.0.5' type='text/css' media='all' />
+<script type="4f341651a180d7a2d4a35c66-text/javascript" src='https://www.webdesignerdepot.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<link rel='https://api.w.org/' href='https://www.webdesignerdepot.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.webdesignerdepot.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.webdesignerdepot.com/wp-includes/wlwmanifest.xml" />
+<link rel='prev' title='Popular Design News of the Week: August 24, 2020 – August 30, 2020' href='https://www.webdesignerdepot.com/2020/08/popular-design-news-of-the-week-august-24-2020-august-30-2020/' />
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel='shortlink' href='https://www.webdesignerdepot.com/?p=110229' />
+<link rel="alternate" type="application/json+oembed" href="https://www.webdesignerdepot.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.webdesignerdepot.com%2F2020%2F08%2F8-easy-ways-to-ruin-your-user-onboarding%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.webdesignerdepot.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.webdesignerdepot.com%2F2020%2F08%2F8-easy-ways-to-ruin-your-user-onboarding%2F&#038;format=xml" />
+<script type="4f341651a180d7a2d4a35c66-text/javascript">
+var ajaxurl = 'https://www.webdesignerdepot.com/wp-admin/admin-ajax.php';
+</script>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><link rel="amphtml" href="https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/amp/"><link rel="icon" href="https://www.webdesignerdepot.com/cdn-origin/uploads/2017/12/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.webdesignerdepot.com/cdn-origin/uploads/2017/12/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.webdesignerdepot.com/cdn-origin/uploads/2017/12/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.webdesignerdepot.com/cdn-origin/uploads/2017/12/cropped-favicon-270x270.png" />
+
+<script type="4f341651a180d7a2d4a35c66-text/javascript">(function(){var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = '//cdn.buysellads.com/ac/pro.js';document.getElementsByTagName('head')[0].appendChild(bsa);})();</script>
+
+
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.hitTime = Date.now();
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
+
+  // Tag IDs set here, must match Tags served in the Body for proper setup
+  freestar.config.enabled_slots = [
+    "div-gpt-ad-728x90-ATF",
+    "div-gpt-ad-300x250-ATF",
+    "div-gpt-ad-300x250-BTF-1",
+    "div-gpt-ad-300x250-BTF-2",
+        "WDD_970x90",
+    "WDD_728x90",
+    "WDD_300x250",
+    
+    
+    "WebDesignerDepot_300x250_sidebar_2",
+    "WebDesignerDepot_300x250_sidebar_1"
+  ];
+
+  !function(a,b){var c=b.getElementsByTagName("script")[0],d=b.createElement("script"),e="https://a.pub.network/webdesignerdepot";e+=freestar.debug?"/qa/pubfig.min.js":"/pubfig.min.js",d.async=!0,d.src=e,c.parentNode.insertBefore(d,c)}(window,document);
+</script>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js" type="4f341651a180d7a2d4a35c66-text/javascript"></script>
+<script type="4f341651a180d7a2d4a35c66-text/javascript">
+  window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#000"
+      },
+      "button": {
+        "background": "#f1d600"
+      }
+    },
+    "content": {
+      "href": "https://www.webdesignerdepot.com/disclaimer-and-privacy-policy/"
+    }
+  })});
+  </script>
+<script type="4f341651a180d7a2d4a35c66-text/javascript">(function(document, tag) { var script = document.createElement(tag); var element = document.getElementsByTagName('body')[0]; script.src = 'https://acsbap.com/api/app/assets/js/acsb.js'; script.async = true; script.defer = true; (typeof element === 'undefined' ? document.getElementsByTagName('html')[0] : element).appendChild(script); script.onload = function() { acsbJS.init({ statementLink : '', feedbackLink : '', footerHtml : '', hideMobile : false, hideTrigger : false, language : 'en', position : 'left', leadColor : '#191c1d', triggerColor : '#191c1d', triggerRadius : '50%', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'default', triggerSize : 'small', triggerOffsetX : 20, triggerOffsetY : 20, mobile : { triggerSize : 'small', triggerPositionX : 'left', triggerPositionY : 'center', triggerOffsetX : 0, triggerOffsetY : 0, triggerRadius : '0' } }); };}(document, 'script'));</script>
+
+<script type="4f341651a180d7a2d4a35c66-text/javascript">
+	var tyche = { mode: 'tyche', config: '//config.playwire.com/1024317/v2/websites/72732/banner.json' }
+	</script>
+<script id="tyche" src="//cdn.intergi.com/hera/tyche.js" type="4f341651a180d7a2d4a35c66-text/javascript"></script>
+
+<script type="4f341651a180d7a2d4a35c66-text/javascript">
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1879157,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</head>
+<body class="post-template-default single single-post postid-110229 single-format-standard blog-body">
+
+<div id="pushdown">
+<script type="4f341651a180d7a2d4a35c66-text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="4f341651a180d7a2d4a35c66-text/javascript">
+    //googletag.pubads().definePassback('/15184186/WebDesignerDepot_1x1_Pushdown', [1, 1]).display();
+  </script>
+</div>
+<div id="wrapper">
+<header id="header">
+<div class="content-block" id="header-top">
+<a class="mms-icon hamburger-to-close mhm-lnk" id="mms-icon-blog" data-list="msml-blog">
+<span class="hamburger-middle"></span>
+</a>
+<div id="header-social-block">
+<a href="https://www.facebook.com/webdesignerdepot" class="hs-lnk wicon-facebook">
+<svg enable-background="new 0 0 56.693 56.693" height="56.693px" id="Layer_1" version="1.1" viewBox="0 0 56.693 56.693" width="56.693px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path fill="#191C1D" d="M40.43,21.739h-7.645v-5.014c0-1.883,1.248-2.322,2.127-2.322c0.877,0,5.395,0,5.395,0V6.125l-7.43-0.029  c-8.248,0-10.125,6.174-10.125,10.125v5.518h-4.77v8.53h4.77c0,10.947,0,24.137,0,24.137h10.033c0,0,0-13.32,0-24.137h6.77  L40.43,21.739z" /></svg> </a>
+<a href="http://twitter.com/designerdepot" class="hs-lnk wicon-twitter">
+<svg aria-labelledby="simpleicons-twitter-icon" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path fill="#191C1D" d="M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z" /></svg> </a>
+<a href="http://feeds2.feedburner.com/webdesignerdepot?format=html" class="hs-lnk wicon-rss">
+<svg aria-labelledby="simpleicons-rss-icon" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title id="simpleicons-rss-icon">RSS icon</title><path fill="#191C1D" d="M19.199 24C19.199 13.467 10.533 4.8 0 4.8V0c13.165 0 24 10.835 24 24h-4.801zM3.291 17.415c1.814 0 3.293 1.479 3.293 3.295 0 1.813-1.485 3.29-3.301 3.29C1.47 24 0 22.526 0 20.71s1.475-3.294 3.291-3.295zM15.909 24h-4.665c0-6.169-5.075-11.245-11.244-11.245V8.09c8.727 0 15.909 7.184 15.909 15.91z" /></svg> </a>
+</div>
+<div id="top-center" class="d-flex flex-row justify-content-center">
+<div class="top-submenu-wrap d-flex flex-column justify-content-center ">
+<nav class="top-submenu">
+<a href="https://www.webdesignerdepot.com" class="mn-item">Home
+<span class="mn-stb">Home</span>
+</a>
+<div class="mn-wrap">
+<span class="mn-item">Articles
+<span class="mn-stb">Articles</span>
+</span>
+<div class="categories-drop-down">
+<div>
+<a href="/category/news" class="category-link">News</a>
+</div>
+<div>
+<a href="/category/tools-resources" class="category-link">Tools &amp; Resources</a>
+</div>
+<div>
+<a href="/category/user-experience" class="category-link">User Experience</a>
+</div>
+<div>
+<a href="/category/visual-design" class="category-link">Visual Design</a>
+</div>
+<div>
+<a href="/category/community-inspiration" class="category-link">Community &amp; Inspiration</a>
+</div>
+<div>
+<a href="/category/strategy-workflow" class="category-link">Strategy &amp; Workflow</a>
+</div>
+<div>
+<a href="/category/business-tech" class="category-link">Business &amp; Tech</a>
+</div>
+<div>
+<a href="/category/code" class="category-link">Code</a>
+</div>
+<div>
+<a href="/category/content-strategy" class="category-link">Content Strategy</a>
+</div>
+<div>
+<a href="/category/search-marketing" class="category-link">Search &amp; Marketing</a>
+</div>
+<div>
+<a href="/category/usability-testing" class="category-link">Usability &amp; Testing</a>
+</div>
+<div>
+<a href="/category/funny" class="category-link">Funny</a>
+</div>
+<div>
+<a href="/category/sponsored" class="category-link">Sponsored</a>
+</div>
+</div> </div>
+</nav>
+</div>
+<span class="logo-anim-mask">
+<a href="https://www.webdesignerdepot.com" class="w-logo" title="Web Design Blog: WebdesignerDepot.com">
+<span class="vi-logo">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 489 304"><defs><style>.cls-1{fill:#f48427;}.cls-2{fill:#fbb239;}.cls-3{fill:#d32633;}.cls-4{fill:#f0353d;}</style></defs><polygon class="cls-1" points="81 0 0 0 65.223 113.301 105.669 43.04 81 0" /><polygon class="cls-2" points="230.5 207.59 175 304 65.22 113.3 105.67 43.04 175 164 190.17 137.53 230.5 207.59" /><polygon class="cls-3" points="408 0 489 0 423.777 113.301 383.331 43.04 408 0" /><polygon class="cls-4" points="139 0 220 0 314 164 383.331 43.04 423.777 113.301 314 304 139 0" /></svg> </span>
+<span class="ghost-logo">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 489 304"><defs><style>.cls-1{fill:#f48427;}.cls-2{fill:#fbb239;}.cls-3{fill:#d32633;}.cls-4{fill:#f0353d;}</style></defs><polygon class="cls-1" points="81 0 0 0 65.223 113.301 105.669 43.04 81 0" /><polygon class="cls-2" points="230.5 207.59 175 304 65.22 113.3 105.67 43.04 175 164 190.17 137.53 230.5 207.59" /><polygon class="cls-3" points="408 0 489 0 423.777 113.301 383.331 43.04 408 0" /><polygon class="cls-4" points="139 0 220 0 314 164 383.331 43.04 423.777 113.301 314 304 139 0" /></svg> </span>
+</a>
+</span>
+<div class="top-submenu-wrap d-flex flex-column justify-content-center">
+<nav class="top-submenu">
+<a href="/category/freebies" class="mn-item">Freebies
+<span class="mn-stb">Freebies</span>
+</a>
+<a href="https://www.mightydeals.com/all_deals?ref=wddnavbar" class="mn-item">Deals
+<span class="mn-stb">Deals</span>
+</a>
+
+</nav>
+</div>
+</div>
+<div id="header-search">
+<div class="search-wrap">
+<a href="#" id="search-btn">
+<svg id="search-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>search-icon</title><path fill="#ffffff" d="M15.5,14h-.793l-.27637-.27637a6.51878,6.51878,0,1,0-.707.707L14,14.707V15.5l5,5L20.5,19ZM5,9.5A4.5,4.5,0,1,1,9.5,14,4.5,4.5,0,0,1,5,9.5Z" /></svg> <span class="l-icon-cancel-1"></span>
+</a>
+</div>
+</div>
+</div>
+</header>
+<form method="get" action="https://www.webdesignerdepot.com" id="search-form">
+<input type="text" name="s" value="" id="search-field" class="h-holder non-active" data-value="Search articles..." value="" />
+</form>
+<div class="content-block">
+<div id="article-header-stub">
+</div>
+<div id="article-header-wrap">
+<div id="article-header">
+
+<div class="content-block ah-cim ah-cim-img" style="background-image:url(https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_onboarding-scaled@wdd2x.jpg);">
+<div class="single-title-im-wrap">
+<div class="single-title-im-content clearfix">
+<div class="single-title-im-inside clearfix">
+<div class="hp-cat">
+<a data-tooltip="See all posts related to User Experience" class="hp-category" href="https://www.webdesignerdepot.com/category/user-experience/">User Experience</a> </div>
+<h1 class="single-title">
+<span>
+8 Easy Ways To Ruin Your User Onboarding </span>
+</h1>
+<div class="stiw-pinfo clearfix">
+<div class="hp-post-pub-info">
+<div class="hp-post-pub-info-content">
+<a data-tooltip="See all posts by Adam Fard" class="hp-author-avatar-lnk" href="/author/Adam-Fard">
+<img src="https://www.gravatar.com/avatar/45c2f380cf29bc82a34f5466afec46a9?s=48" alt="Adam Fard" class="hpppi-author-avatar" />
+</a>
+<span class="hpppi-author">
+By <a data-tooltip="See all posts by Adam Fard" href="/author/Adam-Fard">Adam Fard</a>
+</span>
+<span class="hpppi-separator">&nbsp;|&nbsp;</span>
+<span class="hppi-time">
+<span class="icon-clock-1"></span>
+6 hrs ago </span>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="overwrap">
+<div class="content-block">
+<div class="wrapper flex-wrap">
+<div class="content ">
+
+<div class="content-block single-content-block">
+<div class="entry-content single-content">
+<div id="article-sticky-stuff">
+<div class="sticky-shares-wrap">
+<div class="sticky-shares">
+<div class="post-share-row psr-color">
+<a onclick="if (!window.__cfRLUnblockHandlers) return false; openFbShare(this)" href="javascript:void(0);" data-url="https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/" data-href="https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/" class="psi-lnk psi-sci psi-fb" data-cf-modified-4f341651a180d7a2d4a35c66-=""><span class="p-share-icon icon-facebook"></span>
+</a>
+</div>
+<div class="post-share-row psr-color">
+<a href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.webdesignerdepot.com%2F&amp;via=designerdepot&amp;text=8+Easy+Ways+To%C2%A0Ruin+Your+User+Onboarding&amp;source=tweetbutton&amp;url=https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/" onclick="if (!window.__cfRLUnblockHandlers) return false; return openTwShare(this); return false;" class="psi-lnk psi-sci psi-tw" data-cf-modified-4f341651a180d7a2d4a35c66-="">
+<span class="p-share-icon icon-twitter"></span>
+</a>
+</div>
+<div class="post-share-row">
+<a href="#comments_section" class="psi-lnk psi-service scroll-to"><span class="p-share-icon icon-comment"></span></a>
+</div>
+<div class="post-share-row">
+<a href="javascript:window.print()" class="psi-lnk psi-service"><span class="p-share-icon icon-print"></span></a>
+</div>
+<div class="post-share-row">
+<a href="mailto:?subject=Check out this article: 8 Easy Ways To Ruin Your User Onboarding&body=https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/" class="psi-lnk psi-service"><span class="p-share-icon icon-mail-alt"></span></a>
+</div>
+</div> 
+</div>
+</div>
+<p class="single-first-p">To understand why user onboarding is such an indispensable tool, we need to empathize with the people using our products; we all come from different backgrounds and cultures, we make different assumptions, and we see the world differently.</p>
+<p>User onboarding helps mitigate these differences by making your product’s learning curve less steep.</p>
+<p>However, companies often make unfortunate mistakes that hinder user experience and cause frustration. In today’s article, we’ll take a look at eight ways companies ruin their products’ onboarding process.</p>
+<p>Let’s dive right in, shall we?</p><p class="fixed-empty-p">&nbsp;</p><h2>1. No User Onboarding at all</h2>
+<p>As a part of the team that created a product, you’ve probably spent hundreds of hours going over its features and the most minute detail. Naturally, you know the product like the back of your hand. The user does not.</p>
+<div class="simplePullQuote right"><p>Naturally, you know the product like the back of your hand. The user does not</p>
+</div>
+<p>We may believe that the app we’ve worked on is straightforward and that user onboarding is probably overkill — but that’s almost never the case. Guiding our users through a product will help with retention, conversion, and their overall satisfaction.</p>
+<p>However, there are very rare cases when you <em>can</em> do without user onboarding, here are a few:</p>
+<ul>
+<li>Your product is too straightforward to cause any confusion;</li>
+<li>Your product has a formulaic structure, similar to that of other products’ in your category, i.e., social media or e-commerce;</li>
+<li>Your product relies heavily on Google or iOS design guidelines with common design patterns;</li>
+<li>Your product is too complex (enterprise or business-oriented) — in such cases, users need special training, rather than just an onboarding;</li>
+</ul><p class="fixed-empty-p">&nbsp;</p><h2>2. Assuming That Users “Get It”</h2>
+<p> One of the vital UX mottos we should always be mindful of is that “we are not our users.” When onboarding them, we always need to assume that they’re at square one. We should communicate with them as if they have no prior knowledge of our product, its terminology, and the way it works.</p>
+<p>Providing freshly-registered users with highly contextual information will most likely confuse them. As a result, this will render your attempts to create a helpful onboarding process useless.  </p><p class="fixed-empty-p">&nbsp;</p><h2>3. Onboarding Users on a Single Touchpoint</h2>
+<div class="simplePullQuote right"><p>it’s tempting to brainstorm which features should make it into the onboarding, then design and code them; that’s a very bad idea</p>
+</div>
+<p>The main problem with the previous point is that it’s too contextual for new users. However, providing no context altogether can be problematic as well. This is commonly found in onboarding processes that focus on a single touchpoint while leaving out the rest of the product.</p>
+<p>By choosing to inform users of our product’s features, we force them to detour from their “normal” course of action. This comes at the cost of the user’s frustration.</p>
+<p>Since we’re asking people to pay this price, it’s best to provide them with information that will also help them navigate the entire product. As a result, this will decrease the number of times we’ll have to distract them from their ordinary flow.</p><p class="fixed-empty-p">&nbsp;</p><h2>4. Forcing Users Through Onboarding</h2>
+<p>We’ve previously mentioned that we mustn’t assume that users have any background knowledge about our products.</p>
+<p>The opposite argument can be made — experienced users don&#8217;t need a basic onboarding process. It will most likely frustrate them, and it won&#8217;t provide them with any real value. Also, forcing users through this process will most likely take the onboarding frustration to a whole other level.</p>
+<p>This is why it’s essential that we allow them to skip the parts they don’t find useful. This way, we’ll address the knowledge gaps of the people who really want it and need it.</p><p class="fixed-empty-p">&nbsp;</p><h2>5. Onboarding Based Purely on Assumptions</h2>
+<p>This is yet another point that’s implicit in “we are not our users”. Oftentimes, it’s tempting to brainstorm which features should make it into the onboarding, then design and code them; that’s a very bad idea.</p>
+<p>Here’s what every designer should do instead:</p>
+<ul>
+<li><strong>Do user interviews:</strong> You should conduct these before having anything designed; user interviews will help you shortlist and prioritize features in terms of their significance, so that the onboarding is focused around the features that matter most.</li>
+<li><strong>Do usability testing:</strong> Once you have a good idea of what features your users consider most important, design onboarding that reflects that; having completed your design, make sure to conduct at least 5 usability testing sessions with users, so that you can make sure that your design works.</li>
+</ul><p class="fixed-empty-p">&nbsp;</p><h2>6. Just Letting Users Quit</h2>
+<p>While we shouldn’t force people to go through onboarding, it doesn’t mean we shouldn’t <a href="https://adamfard.com/blog/persuasive-design" class="external" rel="nofollow">nudge them</a> in the right direction.</p>
+<div class="simplePullQuote right"><p>find that sweet spot between being front of mind and annoying</p>
+</div>
+<p>People choose not to onboard for many reasons, but showing them around will benefit both parties. Therefore, it’s never wrong to remind them that they can always resume onboarding via email or push notifications (unless you’re <em>too</em> pushy). Make sure to find that sweet spot between being front of mind and annoying. </p>
+<p>Similarly, these two mediums are a great way to deliver valuable information as well.</p>
+<p>Here’s <a href="https://reallygoodemails.com/emails/run-a-retrospective-with-freehand" class="external" rel="nofollow">a great example of an onboarding email</a> from InVision:</p>
+<div class="finline-large"><a href="https://reallygoodemails.com/emails/run-a-retrospective-with-freehand" class="external" rel="nofollow"><img class="alignnone size-full wp-image-110263 image-border" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/invision.png" alt="InVision Email" width="1856" height="1280" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/invision.png 1856w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/invision-300x207.png 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/invision-1024x706.png 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/invision-768x530.png 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/invision-1536x1059.png 1536w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/invision-1684x1161.png 1684w" sizes="(max-width: 1856px) 100vw, 1856px" /></a></div>
+<p>And here’s a clever notification from TripPlanner:</p>
+<div class="finline-large"><img src="images/image1.png" alt="" /><a href="https://clevertap.com/blog/welcome-push-notifications-to-onboard-new-users/" class="external" rel="nofollow"><img class="alignnone size-full wp-image-110264 image-border" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/tripplanner.png" alt="TripPlanner Notification" width="1856" height="1280" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/tripplanner.png 1856w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/tripplanner-300x207.png 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/tripplanner-1024x706.png 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/tripplanner-768x530.png 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/tripplanner-1536x1059.png 1536w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/tripplanner-1684x1161.png 1684w" sizes="(max-width: 1856px) 100vw, 1856px" /></a></div>
+<p><em>Source: <a href="https://clevertap.com/blog/welcome-push-notifications-to-onboard-new-users/" class="external" rel="nofollow">clevertap.com</a></em></p><p class="fixed-empty-p">&nbsp;</p><h2>7. Asking For Too Much Information</h2>
+<p>We need to always be mindful of the fact that the product’s spokesperson should act as a guide during onboarding. Its goal at the very beginning is to <a href="https://uxdesign.cc/build-trust-with-these-ux-guidelines-f3d547bb2014" class="external" rel="nofollow">build trust</a>.</p>
+<div class="simplePullQuote right"><p>We can ask for small favors when we’ve built a solid and lasting relationship</p>
+</div>
+<p>Not only is asking for too much information from the get-go unproductive, but it will also <a href="https://productled.com/user-onboarding-mistakes/" class="external" rel="nofollow">undermine the trust</a> that the user already gave us.</p>
+<p>It’s best to abstain from asking freshly-registered users for their credit card information. Nearly 100% of businesses care about profits — and there’s no shame in it. However, today’s most successful companies make money by providing users with value. So it’s best to stimulate users to share their financial data in subtler ways while focusing on <a href="https://adamfard.com/blog/customer-experience-strategy" class="external" rel="nofollow">customer experience</a>.</p>
+<p>The same can be said about subjecting the people using your service to extensive questionnaires. At the first steps of our interaction, it’s all about giving and gaining trust. We can ask for small favors when we’ve built a solid and lasting relationship.</p><p class="fixed-empty-p">&nbsp;</p><h2>8. Onboarding for the Sake of Onboarding</h2>
+<p>While there are dozens of reasons why you should guide your users through your product, it needs to be done well. A pointless onboarding process that doesn’t provide users with value is more frustrating than the lack thereof.</p>
+<p>Onboarding can be a bit frustrating at times. Pointless onboarding will just raise eyebrows. It will slow users down and disengage them, which is exactly the opposite of what we want.</p><p class="fixed-empty-p">&nbsp;</p><h2>Conclusion</h2>
+<p>The process of introducing your users to your product is one of the factors that will define its success.</p>
+<p>A critical aspect of user onboarding that we need to always take into account is value. Is this detour from our user’s ordinary course of action valuable to them? Will this improve their experience with the product?</p>
+<p>Onboarding demands careful and continuous tailoring. Once perfected, this process will help you win new users&#8217; hearts and help you build brand loyalty.</p>
+<p class="fixed-empty-p">&nbsp;</p>
+<p><em>Featured image <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="external" rel="nofollow">via Unsplash</a>.</em></p>
+</div>
+<div id="after-single">
+<div class="post-author-bio clearfix">
+<img alt='' src='https://secure.gravatar.com/avatar/45c2f380cf29bc82a34f5466afec46a9?s=114&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/45c2f380cf29bc82a34f5466afec46a9?s=228&#038;d=mm&#038;r=g 2x' class='avatar avatar-114 photo' height='114' width='114' />
+<div class="post-author-bio-content">
+<h2 class="post-author-name">
+<a href="/author/Adam-Fard">By Adam Fard</a>
+</h2>
+<div class="author-bio-text">Founder and senior UX/Product designer at AdamFard a <a href="https://adamfard.com">UX Design Agency</a> in Berlin and Vienna — Among numerous inspiring business wins, he has helped to double the in-app purchases of a Global 500 company; and got another app promptly featured on the App Store, resulting in 10M+ downloads and a 4.7+ average user rating. He loves to collaborate with teams and startups from diverse industries and verticals to work on innovative products and technologies. As an industry thought leader, he enjoys traveling around the world, and helping entrepreneurs and businesses succeed in their projects. <a data-title="Articles by Adam Fard" href="/author/Adam-Fard">More articles </a> by Adam Fard </div>
+</div>
+</div>
+<div class="single-bottom-ads">
+
+<div align="center" id="WDD_970x90">
+
+
+
+
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function () { googletag.display('WDD_970x90'); });
+</script>
+</div> </div>
+<div id="comments_section">
+<div id="disqus_thread"></div>
+<script type="4f341651a180d7a2d4a35c66-text/javascript">
+        var disqus_shortname = "webdesignerdepot";
+        var disqus_title = "8 Easy Ways To Ruin Your User Onboarding";
+        var disqus_url = "https://www.webdesignerdepot.com/2020/08/8-easy-ways-to-ruin-your-user-onboarding/";
+        var disqus_identifier = "webdesignerdepot-110229";
+    </script>
+<script type="4f341651a180d7a2d4a35c66-text/javascript">    
+        (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//webdesignerdepot.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+    </script>
+</div> </div>
+</div>
+</div>
+<nav id="sidebar" class="clearfix">
+
+
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="4f341651a180d7a2d4a35c66-text/javascript"></script>
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-5778786047058798" data-ad-slot="6337423170"></ins>
+<script type="4f341651a180d7a2d4a35c66-text/javascript">
+    try{
+  (adsbygoogle = window.adsbygoogle || []).push({});
+}catch(ex){}
+     </script>
+<div class="sb-popular-posts spp-dark">
+<div class="sb-popular-posts-block-title"><span>Popular posts</span></div>
+<div class="sb-popular-posts-block sb-post-rows">
+<article class="sb-post-row d-flex flex-row">
+<img width="842" height="463" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_data-1024x563.jpg" class="sb-post-bg-img wp-post-image" alt="The Latest Research for Web Designers, August 2020" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_data-1024x563.jpg 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_data-300x165.jpg 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_data-768x422.jpg 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_data-1536x845.jpg 1536w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_data-2048x1126.jpg 2048w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_data-1684x926.jpg 1684w" sizes="(max-width: 842px) 100vw, 842px" />
+<a href="https://www.webdesignerdepot.com/2020/08/the-latest-research-for-web-designers-august-2020/" class="sb-post-lnk-imgq d-flex flex-column justify-content-center">
+<img width="150" height="150" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_data-150x150.jpg" class="sb-post-thumb wp-post-image" alt="" /> </a>
+<div class="sb-post-info-2 d-flex flex-column justify-content-center">
+<div class="hp-cat">
+<a data-tooltip="See all posts related to Business &amp; Tech" class="hp-category" href="https://www.webdesignerdepot.com/category/business-tech/">Business &amp; Tech</a> </div>
+<h2 class="sb-post-title">
+<a href="https://www.webdesignerdepot.com/2020/08/the-latest-research-for-web-designers-august-2020/" class="anim-link">The Latest Research for Web Designers, August 2020</a>
+</h2>
+</div>
+</article> <article class="sb-post-row d-flex flex-row">
+<img width="842" height="463" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_esb-1024x563.jpg" class="sb-post-bg-img wp-post-image" alt="Interview: Redesigning the Empire State Building’s Website" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_esb-1024x563.jpg 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_esb-300x165.jpg 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_esb-768x422.jpg 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_esb-1536x845.jpg 1536w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_esb-2048x1126.jpg 2048w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_esb-1684x926.jpg 1684w" sizes="(max-width: 842px) 100vw, 842px" />
+<a href="https://www.webdesignerdepot.com/2020/08/interview-redesigning-the-empire-state-buildings-website/" class="sb-post-lnk-imgq d-flex flex-column justify-content-center">
+<img width="150" height="150" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_esb-150x150.jpg" class="sb-post-thumb wp-post-image" alt="" /> </a>
+<div class="sb-post-info-2 d-flex flex-column justify-content-center">
+<div class="hp-cat">
+<a data-tooltip="See all posts related to Community &amp; Inspiration" class="hp-category" href="https://www.webdesignerdepot.com/category/community-inspiration/">Community &amp; Inspiration</a> </div>
+<h2 class="sb-post-title">
+<a href="https://www.webdesignerdepot.com/2020/08/interview-redesigning-the-empire-state-buildings-website/" class="anim-link">Interview: Redesigning the Empire State Building’s Website</a>
+</h2>
+</div>
+</article> <article class="sb-post-row d-flex flex-row">
+<img width="842" height="463" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/07/featured_lcp-1024x563.jpg" class="sb-post-bg-img wp-post-image" alt="How to Improve Largest Contentful Paint (LCP) and SEO" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/07/featured_lcp-1024x563.jpg 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/07/featured_lcp-300x165.jpg 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/07/featured_lcp-768x422.jpg 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/07/featured_lcp-1536x845.jpg 1536w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/07/featured_lcp-2048x1126.jpg 2048w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/07/featured_lcp-1684x926.jpg 1684w" sizes="(max-width: 842px) 100vw, 842px" />
+<a href="https://www.webdesignerdepot.com/2020/07/how-to-improve-largest-contentful-paint-lcp-and-seo/" class="sb-post-lnk-imgq d-flex flex-column justify-content-center">
+<img width="150" height="150" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/07/featured_lcp-150x150.jpg" class="sb-post-thumb wp-post-image" alt="" /> </a>
+<div class="sb-post-info-2 d-flex flex-column justify-content-center">
+<div class="hp-cat">
+<a data-tooltip="See all posts related to Sponsored" class="hp-category" href="https://www.webdesignerdepot.com/category/sponsored/">Sponsored</a> </div>
+<h2 class="sb-post-title">
+<a href="https://www.webdesignerdepot.com/2020/07/how-to-improve-largest-contentful-paint-lcp-and-seo/" class="anim-link">How to Improve Largest Contentful Paint (LCP) and SEO</a>
+</h2>
+</div>
+</article> <article class="sb-post-row d-flex flex-row">
+<img width="842" height="480" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured-3-1024x584.jpg" class="sb-post-bg-img wp-post-image" alt="Popular Design News of the Week: August 10, 2020 – August 16, 2020" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured-3-1024x584.jpg 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured-3-300x171.jpg 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured-3-768x438.jpg 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured-3.jpg 1156w" sizes="(max-width: 842px) 100vw, 842px" />
+<a href="https://www.webdesignerdepot.com/2020/08/popular-design-news-of-the-week-august-10-2020-august-16-2020/" class="sb-post-lnk-imgq d-flex flex-column justify-content-center">
+<img width="150" height="150" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured-3-150x150.jpg" class="sb-post-thumb wp-post-image" alt="" /> </a>
+<div class="sb-post-info-2 d-flex flex-column justify-content-center">
+<div class="hp-cat">
+<a data-tooltip="See all posts related to News" class="hp-category" href="https://www.webdesignerdepot.com/category/news/">News</a> </div>
+<h2 class="sb-post-title">
+<a href="https://www.webdesignerdepot.com/2020/08/popular-design-news-of-the-week-august-10-2020-august-16-2020/" class="anim-link">Popular Design News of the Week: August 10, 2020 – August 16, 2020</a>
+</h2>
+</div>
+</article> <article class="sb-post-row d-flex flex-row">
+<img width="842" height="463" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_open_source-1024x563.png" class="sb-post-bg-img wp-post-image" alt="17 Open Source Fonts You’ll Actually Love" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_open_source-1024x563.png 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_open_source-300x165.png 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_open_source-768x422.png 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_open_source-1536x845.png 1536w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_open_source-2048x1126.png 2048w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_open_source-1684x926.png 1684w" sizes="(max-width: 842px) 100vw, 842px" />
+<a href="https://www.webdesignerdepot.com/2020/08/17-open-source-fonts-youll-actually-love/" class="sb-post-lnk-imgq d-flex flex-column justify-content-center">
+<img width="150" height="150" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/featured_open_source-150x150.png" class="sb-post-thumb wp-post-image" alt="" /> </a>
+
+<div class="sb-post-info-2 d-flex flex-column justify-content-center">
+<div class="hp-cat">
+<a data-tooltip="See all posts related to Tools &amp; Resources" class="hp-category" href="https://www.webdesignerdepot.com/category/tools-resources/">Tools &amp; Resources</a> </div>
+<h2 class="sb-post-title">
+<a href="https://www.webdesignerdepot.com/2020/08/17-open-source-fonts-youll-actually-love/" class="anim-link">17 Open Source Fonts You’ll Actually Love</a>
+</h2>
+</div>
+</article> </div>
+</div>
+<div class="bsads-300">
+
+<div id="sb-bsap-rects-ads">
+<div class="bsads-300">
+
+<div align="center" id="WebDesignerDepot_300x250_sidebar_2">
+
+
+
+
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function () { googletag.display('WebDesignerDepot_300x250_sidebar_2'); });
+</script>
+</div>
+</div>
+<div class="bsads-300">
+
+<div align="center" id="WebDesignerDepot_300x250_sidebar_1">
+
+
+
+
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function () { googletag.display('WebDesignerDepot_300x250_sidebar_1'); });
+</script>
+</div>
+</div>
+</div>
+<div class="google-ads-sidebar">
+<div align="center">
+<a href="http://sps.northwestern.edu/info/information-design.php?utm_source=WebDesignerDepot_L&utm_medium=sidebar600x250&utm_term=FY20&utm_content=IDS&utm_campaign=IDS_WebDesignerDepotFY20&src=WebDesignerDepot_IDS_enews600x250_mayaug_L" border="0" alt="" width="300" height="600" /><img height="125" width="300" src="/uploads/ads/IDS_600x250_LM.gif" border="0" /></a>
+</div>
+</div>
+<div id="sidebar-poll">
+<script src="https://www.webdesignerdepot.com/wp-content/plugins/wp-fs-polls/widget/poll.js.php" async="true" data-id="106" data-sba="true" data-block-id="sb-poll-106" type="4f341651a180d7a2d4a35c66-text/javascript"></script>
+</div>
+<div class="bsads-300">
+
+<div align="center" id="WDD_300x250">
+
+
+
+
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function () { googletag.display('WDD_300x250'); });
+</script>
+</div>
+</div>
+<div align="center">
+<a href="//1.envato.market/c/456972/377365/4662"><img src="//a.impactradius-go.com/display-ad/4662-377365" border="0" alt="" width="300" height="600" /></a><img height="0" width="0" src="//1.envato.market/i/456972/377365/4662" style="position:absolute;visibility:hidden;" border="0" />
+</div>
+</nav>
+</div>
+
+</div>
+<div class="content-block">
+<div class="content-block-w">
+<div class="popular-posts-block related-posts-block">
+<div class="pop-block-title"><span>Related posts</span></div>
+<div class="pop-block-diline"></div>
+<div class="d-flex flex-row pop-posts-items">
+<article class="article-diagonal-post adp-4 ">
+<div class="adp-content">
+<a class="adp-img" href="https://www.webdesignerdepot.com/2020/04/exciting-new-tools-for-designers-april-2020/">
+<img width="2780" height="1529" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/04/featured_new-1.jpg" class="article-post-img wp-post-image" alt="Exciting New Tools for Designers, April 2020" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2020/04/featured_new-1.jpg 2780w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/04/featured_new-1-300x165.jpg 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/04/featured_new-1-768x422.jpg 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/04/featured_new-1-1024x563.jpg 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2020/04/featured_new-1-1684x926.jpg 1684w" sizes="(max-width: 2780px) 100vw, 2780px" />
+</a>
+<div class="article-post-info-wrap">
+<div class="article-post-info">
+<div class="article-post-info-cont">
+<div class="hp-cat">
+<a data-tooltip="See all posts related to Tools &amp; Resources" class="hp-category" href="https://www.webdesignerdepot.com/category/tools-resources/">Tools &amp; Resources</a> </div>
+<h2 class="article-post-title">
+<a href="https://www.webdesignerdepot.com/2020/04/exciting-new-tools-for-designers-april-2020/" class="anim-link">Exciting New Tools for Designers, April 2020</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="article-diagonal-post adp-4 ">
+<div class="adp-content">
+<a class="adp-img" href="https://www.webdesignerdepot.com/2019/06/top-10-drawing-apps-for-ios-and-android/">
+<img width="2780" height="1529" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2019/06/featured_drawingapps.jpg" class="article-post-img wp-post-image" alt="Top 10 Drawing Apps for iOS and Android" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2019/06/featured_drawingapps.jpg 2780w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/06/featured_drawingapps-300x165.jpg 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/06/featured_drawingapps-768x422.jpg 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/06/featured_drawingapps-1024x563.jpg 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/06/featured_drawingapps-1684x926.jpg 1684w" sizes="(max-width: 2780px) 100vw, 2780px" />
+</a>
+<div class="article-post-info-wrap">
+<div class="article-post-info">
+<div class="article-post-info-cont">
+<div class="hp-cat">
+<a data-tooltip="See all posts related to Tools &amp; Resources" class="hp-category" href="https://www.webdesignerdepot.com/category/tools-resources/">Tools &amp; Resources</a> </div>
+<h2 class="article-post-title">
+<a href="https://www.webdesignerdepot.com/2019/06/top-10-drawing-apps-for-ios-and-android/" class="anim-link">Top 10 Drawing Apps for IOS and Android</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="article-diagonal-post adp-4 ">
+<div class="adp-content">
+<a class="adp-img" href="https://www.webdesignerdepot.com/2019/12/9-best-type-foundries-for-when-youre-sick-of-google-fonts/">
+<img width="2780" height="1529" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2019/11/featured_foundries.png" class="article-post-img wp-post-image" alt="9 Best Type Foundries for When You’re Sick of Google Fonts" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2019/11/featured_foundries.png 2780w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/11/featured_foundries-300x165.png 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/11/featured_foundries-768x422.png 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/11/featured_foundries-1024x563.png 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/11/featured_foundries-1684x926.png 1684w" sizes="(max-width: 2780px) 100vw, 2780px" />
+</a>
+<div class="article-post-info-wrap">
+<div class="article-post-info">
+<div class="article-post-info-cont">
+<div class="hp-cat">
+<a data-tooltip="See all posts related to Tools &amp; Resources" class="hp-category" href="https://www.webdesignerdepot.com/category/tools-resources/">Tools &amp; Resources</a> </div>
+<h2 class="article-post-title">
+<a href="https://www.webdesignerdepot.com/2019/12/9-best-type-foundries-for-when-youre-sick-of-google-fonts/" class="anim-link">9 Best Type Foundries for When You’Re Sick of Google Fonts</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="article-diagonal-post adp-4 ">
+<div class="adp-content">
+<a class="adp-img" href="https://www.webdesignerdepot.com/2019/03/whats-new-for-designers-march-2019/">
+<img width="2780" height="1529" src="https://www.webdesignerdepot.com/cdn-origin/uploads/2019/03/featured_new.jpg" class="article-post-img wp-post-image" alt="What’s New For Designers, March 2019" srcset="https://www.webdesignerdepot.com/cdn-origin/uploads/2019/03/featured_new.jpg 2780w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/03/featured_new-300x165.jpg 300w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/03/featured_new-768x422.jpg 768w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/03/featured_new-1024x563.jpg 1024w, https://www.webdesignerdepot.com/cdn-origin/uploads/2019/03/featured_new-1684x926.jpg 1684w" sizes="(max-width: 2780px) 100vw, 2780px" />
+</a>
+<div class="article-post-info-wrap">
+<div class="article-post-info">
+<div class="article-post-info-cont">
+<div class="hp-cat">
+<a data-tooltip="See all posts related to Tools &amp; Resources" class="hp-category" href="https://www.webdesignerdepot.com/category/tools-resources/">Tools &amp; Resources</a> </div>
+<h2 class="article-post-title">
+<a href="https://www.webdesignerdepot.com/2019/03/whats-new-for-designers-march-2019/" class="anim-link">What’s New For Designers, March 2019</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div> </div>
+</div>
+<script src="https://www.webdesignerdepot.com/widget/wdd-freebie-popup.php?ref=wddpopup&show_after=2" type="4f341651a180d7a2d4a35c66-text/javascript"></script>
+</div> 
+<footer id="footer-wrap">
+<div id="footer">
+<div class="content-block">
+<form id="newsletter-form" method="post" action="/newsletter" class="d-flex flex-row justify-content-center clearfix">
+<div id="newsletter-label" class="d-flex flex-column justify-content-center" data-text="Subscribe to our newsletter" data-replacing-text2="Subscribe to our newsletter" data-replacing-text3="JOIN OUR 1,438,257 SUBSCRIBERS" data-replacing-text1="GET EXCLUSIVE FREEBIES AND NEWS">
+JOIN OUR 1,438,257 SUBSCRIBERS
+<div id="nl-sublabel">GET EXCLUSIVE ACCESS TO FREEBIES AND NEWS</div>
+</div>
+<div id="newsletter-email-wrap">
+<input type="email" id="newsletter-email" value="" placeholder="Enter your email address here" />
+<div>
+<label class="inline-agree-label">
+<input type="checkbox" name="nl_agree_chk" value="1">
+I agree to subscribe to the newsletter. See our <a href="/disclaimer-and-privacy-policy/" target="_blank">Privacy Policy</a>.
+</label>
+</div>
+</div>
+<div id="newsletter-button-wrap">
+<a id="newsletter-button" href="#" class="d-flex flex-column justify-content-center"><span>Submit</span></a>
+</div>
+</form> </div>
+<div class="content-block">
+<div id="footer-tags">
+<span id="ft-tg-bg"></span>
+<a href='https://www.webdesignerdepot.com/tag/adobe/' title='Adobe articles' class='adobe'><span>Adobe </span></a><a href='https://www.webdesignerdepot.com/tag/apple/' title='Apple articles' class='apple'><span>Apple </span></a><a href='https://www.webdesignerdepot.com/tag/apps/' title='Apps articles' class='apps'><span>Apps </span></a><a href='https://www.webdesignerdepot.com/tag/art/' title='Art articles' class='art'><span>Art </span></a><a href='https://www.webdesignerdepot.com/tag/best-of/' title='Best Of articles' class='best-of'><span>Best Of </span></a><a href='https://www.webdesignerdepot.com/tag/blogging/' title='Blogging articles' class='blogging'><span>Blogging </span></a><a href='https://www.webdesignerdepot.com/tag/branding/' title='Branding articles' class='branding'><span>Branding </span></a><a href='https://www.webdesignerdepot.com/tag/business/' title='Business articles' class='business'><span>Business </span></a><a href='https://www.webdesignerdepot.com/tag/cartoons/' title='cartoons articles' class='cartoons'><span>cartoons </span></a><a href='https://www.webdesignerdepot.com/tag/clients/' title='Clients articles' class='clients'><span>Clients </span></a><a href='https://www.webdesignerdepot.com/tag/comics/' title='Comics articles' class='comics'><span>Comics </span></a><a href='https://www.webdesignerdepot.com/tag/comics-for-designers/' title='comics for designers articles' class='comics-for-designers'><span>comics for designers </span></a><a href='https://www.webdesignerdepot.com/tag/compilation/' title='Compilation articles' class='compilation'><span>Compilation </span></a><a href='https://www.webdesignerdepot.com/tag/css/' title='CSS articles' class='css'><span>CSS </span></a><a href='https://www.webdesignerdepot.com/tag/css3/' title='css3 articles' class='css3'><span>css3 </span></a><a href='https://www.webdesignerdepot.com/tag/design/' title='Design articles' class='design'><span>Design </span></a><a href='https://www.webdesignerdepot.com/tag/design-inspiration/' title='design inspiration articles' class='design-inspiration'><span>design inspiration </span></a><a href='https://www.webdesignerdepot.com/tag/design-trends/' title='design trends articles' class='design-trends'><span>design trends </span></a><a href='https://www.webdesignerdepot.com/tag/fonts/' title='Fonts articles' class='fonts'><span>Fonts </span></a><a href='https://www.webdesignerdepot.com/tag/free-download/' title='free download articles' class='free-download'><span>free download </span></a><a href='https://www.webdesignerdepot.com/tag/free-downloads/' title='free downloads articles' class='free-downloads'><span>free downloads </span></a><a href='https://www.webdesignerdepot.com/tag/free-font/' title='free font articles' class='free-font'><span>free font </span></a><a href='https://www.webdesignerdepot.com/tag/free-fonts/' title='free fonts articles' class='free-fonts'><span>free fonts </span></a><a href='https://www.webdesignerdepot.com/tag/free-icons/' title='free icons articles' class='free-icons'><span>free icons </span></a><a href='https://www.webdesignerdepot.com/tag/free-resources/' title='free resources articles' class='free-resources'><span>free resources </span></a><a href='https://www.webdesignerdepot.com/tag/free-typeface/' title='free typeface articles' class='free-typeface'><span>free typeface </span></a><a href='https://www.webdesignerdepot.com/tag/freebie/' title='freebie articles' class='freebie'><span>freebie </span></a><a href='https://www.webdesignerdepot.com/tag/freebies/' title='Freebies articles' class='freebies'><span>Freebies </span></a><a href='https://www.webdesignerdepot.com/tag/freelancing/' title='Freelancing articles' class='freelancing'><span>Freelancing </span></a><a href='https://www.webdesignerdepot.com/tag/funny/' title='Funny articles' class='funny'><span>Funny </span></a><a href='https://www.webdesignerdepot.com/tag/google/' title='Google articles' class='google'><span>Google </span></a><a href='https://www.webdesignerdepot.com/tag/graphic-design/' title='Graphic Design articles' class='graphic-design'><span>Graphic Design </span></a><a href='https://www.webdesignerdepot.com/tag/html5/' title='html5 articles' class='html5'><span>html5 </span></a><a href='https://www.webdesignerdepot.com/tag/humor/' title='Humor articles' class='humor'><span>Humor </span></a><a href='https://www.webdesignerdepot.com/tag/icons/' title='Icons articles' class='icons'><span>Icons </span></a><a href='https://www.webdesignerdepot.com/tag/illustration/' title='illustration articles' class='illustration'><span>illustration </span></a><a href='https://www.webdesignerdepot.com/tag/inspiration/' title='Inspiration articles' class='inspiration'><span>Inspiration </span></a><a href='https://www.webdesignerdepot.com/tag/javascript/' title='JavaScript articles' class='javascript'><span>JavaScript </span></a><a href='https://www.webdesignerdepot.com/tag/jquery/' title='jQuery articles' class='jquery'><span>jQuery </span></a><a href='https://www.webdesignerdepot.com/tag/photography/' title='Photography articles' class='photography'><span>Photography </span></a><a href='https://www.webdesignerdepot.com/tag/photoshop/' title='Photoshop articles' class='photoshop'><span>Photoshop </span></a><a href='https://www.webdesignerdepot.com/tag/responsive-design/' title='responsive design articles' class='responsive-design'><span>responsive design </span></a><a href='https://www.webdesignerdepot.com/tag/social-media/' title='Social Media articles' class='social-media'><span>Social Media </span></a><a href='https://www.webdesignerdepot.com/tag/typography/' title='Typography articles' class='typography'><span>Typography </span></a><a href='https://www.webdesignerdepot.com/tag/usability/' title='Usability articles' class='usability'><span>Usability </span></a>
+</div>
+<div class="footer-sep"></div>
+</div>
+<nav id="footer-nav-links">
+<a href="/">Home</a>
+<a href="/about">About</a>
+<a href="/category/freebies">Freebies</a>
+<a href="/authors">Authors</a>
+<a class="m-contact-link" href="/contact?sm=advertise">Advertise</a>
+<a href="/write-for-us">Write for us</a>
+<a href="/disclaimer-and-privacy-policy">Legal</a>
+<a class="m-contact-link" href="/contact">Contact</a>
+</nav>
+<div class="footer-copy">
+© 2010-2020 All Rights Reserved
+</div>
+</div>
+</footer>
+<div id="m-side-menu">
+<div id="m-side-menu-list">
+<div id="msml-blog" class="msml-part">
+<div class="msml-blog-categories">
+<div>
+<a href="/category/news" class="category-link">News</a>
+</div>
+<div>
+<a href="/category/tools-resources" class="category-link">Tools &amp; Resources</a>
+</div>
+<div>
+<a href="/category/user-experience" class="category-link">User Experience</a>
+</div>
+<div>
+<a href="/category/visual-design" class="category-link">Visual Design</a>
+</div>
+<div>
+<a href="/category/community-inspiration" class="category-link">Community &amp; Inspiration</a>
+</div>
+<div>
+<a href="/category/strategy-workflow" class="category-link">Strategy &amp; Workflow</a>
+</div>
+<div>
+<a href="/category/business-tech" class="category-link">Business &amp; Tech</a>
+</div>
+<div>
+<a href="/category/code" class="category-link">Code</a>
+</div>
+<div>
+<a href="/category/content-strategy" class="category-link">Content Strategy</a>
+</div>
+<div>
+<a href="/category/search-marketing" class="category-link">Search &amp; Marketing</a>
+</div>
+<div>
+<a href="/category/usability-testing" class="category-link">Usability &amp; Testing</a>
+</div>
+<div>
+<a href="/category/funny" class="category-link">Funny</a>
+</div>
+<div>
+<a href="/category/sponsored" class="category-link">Sponsored</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/wp-content/themes/wdd18/js/global.js?v=2.1.0.js" type="4f341651a180d7a2d4a35c66-text/javascript"></script>
+<!--[if lt IE 8]>
+<script src="/app/js/json2.min.js"></script>
+<![endif]-->
+<script type="4f341651a180d7a2d4a35c66-text/javascript">
+
+try {
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-331696-9']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+ var ga = document.createElement('script');
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+   'http://www') + '.google-analytics.com/ga.js';
+ ga.setAttribute('async', 'true');
+ document.documentElement.firstChild.appendChild(ga);
+})();
+
+} catch(err) {}
+
+</script>
+<!--[if lte IE 8]>
+  <script type="text/javascript" src="https://www.webdesignerdepot.com/wp-content/themes/wdd18/js/html5shiv.js"></script>
+  <script type="text/javascript" src="https://www.webdesignerdepot.com/wp-content/themes/wdd18/js/css3-mediaqueries.js"></script>
+<![endif]-->
+<!--[if lte IE 9 ]>
+<script>
+var is_ie_lte9 = true;
+</script>
+<![endif]-->
+<script type="4f341651a180d7a2d4a35c66-text/javascript" src="//pub.freestar.io/core/pushdown.min.js"></script>
+<script type="4f341651a180d7a2d4a35c66-text/javascript">
+
+try {
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-331696-9']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+ var ga = document.createElement('script');
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+   'http://www') + '.google-analytics.com/ga.js';
+ ga.setAttribute('async', 'true');
+ document.documentElement.firstChild.appendChild(ga);
+})();
+
+} catch(err) {}
+
+</script>
+<div id="body-end"></div>
+<script src="//m.servedby-buysellads.com/monetization.js" type="4f341651a180d7a2d4a35c66-text/javascript"></script>
+<script type="4f341651a180d7a2d4a35c66-text/javascript">
+  (function() {
+    if (typeof _bsa !== 'undefined' && _bsa) {
+      _bsa.init('flexbar', 'CKYDLK3W', 'placement:webdesignerdepotcom');
+    }
+  })();
+  </script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="4f341651a180d7a2d4a35c66-|49" defer=""></script></body>
+</html>
